@@ -1,6 +1,8 @@
 ### Salve!! Eu sou o Rissi. Tudo blz? 👋
-### Analista de Sistemas - 
+<p>Desenvolvedor e Analista de Sistemas
+<p>Trabalhando com: ServiceNow
 
+##
 <div align="center">
   <a href="https://github.com/matheus522">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus522&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -8,7 +10,6 @@
 </div>
 
   
-  ##
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rissi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +22,6 @@
 </div>
   
   ##
-  
   
   <div>
   

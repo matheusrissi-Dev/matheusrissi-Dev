@@ -16,7 +16,8 @@
   <img align="center" alt="Rissi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rissi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rissi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rissi-ServiceNow" height="30" width="40" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oqlhmj2lqzepoxxgst4m"> 
+  <img align="center" alt="Rissi-ServiceNow" height="30" width="40" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oqlhmj2lqzepoxxgst4m">
+   <img align="center" alt="Rissi-ServiceNow" height="30" width="40" src="https://icon-library.com/images/salesforce-com-icon/salesforce-com-icon-17.jpg">
   
   <img align="right" alt="Rissi-pic" height="120" style="border-radius:50px;" src="https://lh3.googleusercontent.com/a/AEdFTp669w_gYjFlXRouf6JCmOm9ryHB6D0-K2S6p_YJaQ=s432-p-rw-no">
 </div>

@@ -35,5 +35,5 @@
 
   </div>
     
-  ![Snake animation](https://github.com/matheus522/matheus522/blob/output/github-contribution-grid-snake.svg)
+  
    

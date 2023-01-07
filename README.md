@@ -1,4 +1,4 @@
-<h1>Salve!! Eu sou o Rissi. Tudo blz? 👋</h1>
+<h1>Salve!! Eu sou o Rissi. Tudo blz?👋</h1>
 <h3>
 <p>Desenvolvedor e Analista de Sistemas
 <p>Trabalhando com: ServiceNow

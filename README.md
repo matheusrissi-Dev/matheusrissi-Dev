@@ -1,4 +1,5 @@
-## Olá, meu nome é Matheus Rissi!
+## Olá, eu sou o Matheus! 
+## Sejá bem vindo!
 
 ### ⚙️ GitHub Analytics
 

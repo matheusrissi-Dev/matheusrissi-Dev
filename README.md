@@ -15,7 +15,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus522&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrissi-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -23,7 +23,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=matheus522&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=matheusrissi-Dev&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
@@ -41,7 +41,7 @@
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=matheus522&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=matheusrissi-Dev&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
@@ -54,7 +54,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/matheus522/count.svg"
+    src="https://profile-counter.glitch.me/matheusrissi-Dev/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
